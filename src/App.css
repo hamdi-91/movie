@@ -1,0 +1,25 @@
+  
+/.App{
+  padding: 20px;
+} 
+/.btn{
+  font-family: monospace;
+  width: -webkit-fill-available;
+  height: 79px;
+  font-size: x-large;
+  color: #007bff;
+} 
+
+ .box-movie {
+  display: flex;
+
+} 
+.d-flex {
+  display: flex;
+  justify-content: space-around;
+
+}
+.form-control  {
+  width: 400px;
+    height: 50px;
+}
